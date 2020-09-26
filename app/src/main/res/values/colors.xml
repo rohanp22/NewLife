@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f0b71c</color>
+    <color name="colorPrimaryDark">#d17628</color>
+    <color name="colorAccent">#f0b71c</color>
+    <color name="bgcolor">#66666b</color>
+
+        <color name="White">#FFFFFF</color>
+        <color name="Ivory">#FFFFF0</color>
+        <color name="LightYellow">#FFFFE0</color>
+        <color name="Yellow">#FFFF00</color>
+        <color name="Snow">#FFFAFA</color>
+        <color name="FloralWhite">#FFFAF0</color>
+        <color name="LemonChiffon">#FFFACD</color>
+        <color name="Cornsilk">#FFF8DC</color>
+        <color name="Seashell">#FFF5EE</color>
+        <color name="LavenderBlush">#FFF0F5</color>
+        <color name="PapayaWhip">#FFEFD5</color>
+        <color name="BlanchedAlmond">#FFEBCD</color>
+        <color name="MistyRose">#FFE4E1</color>
+        <color name="Bisque">#FFE4C4</color>
+        <color name="Moccasin">#FFE4B5</color>
+        <color name="NavajoWhite">#FFDEAD</color>
+        <color name="PeachPuff">#FFDAB9</color>
+        <color name="Gold">#FFD700</color>
+        <color name="Pink">#FFC0CB</color>
+        <color name="LightPink">#FFB6C1</color>
+        <color name="Orange">#FFA500</color>
+        <color name="LightSalmon">#FFA07A</color>
+        <color name="DarkOrange">#FF8C00</color>
+        <color name="Coral">#FF7F50</color>
+        <color name="HotPink">#FF69B4</color>
+        <color name="Tomato">#FF6347</color>
+        <color name="OrangeRed">#FF4500</color>
+        <color name="DeepPink">#FF1493</color>
+        <color name="Fuchsia">#FF00FF</color>
+        <color name="Magenta">#FF00FF</color>
+        <color name="Red">#FF0000</color>
+        <color name="OldLace">#FDF5E6</color>
+        <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="transparent">#80000000</color>
+</resources>
